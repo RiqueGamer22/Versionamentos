@@ -1,6 +1,3 @@
 Nome: Henrique
 Sobrenome: Alves Ferreira
 e-mail: henriqueaf22@gmail.com
-Data Nascimento: 22/04/2005
-Sexo: Masculino;
-Endereço: R. Marechal Deodoro, 276
